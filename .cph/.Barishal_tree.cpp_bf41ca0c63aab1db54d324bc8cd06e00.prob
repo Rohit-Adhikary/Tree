@@ -1,1 +1,0 @@
-{"name":"Local: Barishal_tree","url":"d:\\2-1\\Data Stucture\\TREE\\Barishal_tree.cpp","tests":[{"id":1791715507862,"input":"5\n2\n1 2\n3\n1 1 1\n3 \n1 2 3\n2 1 4 7\n5\n5 12 9 14 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\2-1\\Data Stucture\\TREE\\Barishal_tree.cpp","group":"local","local":true}
